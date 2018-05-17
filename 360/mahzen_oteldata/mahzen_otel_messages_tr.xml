@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="tr_project_title"><![CDATA[Mahzen Otel]]></data>
+  <data name="tr_project_author_name"><![CDATA[Selis Medya]]></data>
+  <data name="tr_project_author_url"><![CDATA[http://www.sanalturturkiye.net]]></data>
+
+
+
+  <data name="tr_pano10_title"><![CDATA[DIŞ GÖRÜNÜM 1]]></data>
+
+
+  <data name="tr_pano11_title"><![CDATA[DIŞ GÖRÜNÜM 2]]></data>
+
+
+  <data name="tr_pano12_title"><![CDATA[AVLU]]></data>
+
+
+  <data name="tr_pano13_title"><![CDATA[BALKON]]></data>
+
+
+  <data name="tr_pano14_title"><![CDATA[ODA 1]]></data>
+
+
+  <data name="tr_pano15_title"><![CDATA[ODA 2]]></data>
+
+
+  <data name="tr_pano16_title"><![CDATA[ODA 3]]></data>
+
+
+  <data name="tr_pano17_title"><![CDATA[ODA 4]]></data>
+
+
+  <data name="tr_pano18_title"><![CDATA[ODA 5]]></data>
+
+
+  <data name="tr_pano19_title"><![CDATA[ODA 6]]></data>
+
+
+
+
+
+
+  <data name="tr_controlBar_dockedThumbnailszoomInTip"><![CDATA[Zumla yaklaş]]></data>
+  <data name="tr_controlBar_dockedThumbnailszoomOutTip"><![CDATA[Zumla uzaklaş]]></data>
+  <data name="tr_controlBar_dockedThumbnailsmoveLeftTip"><![CDATA[Sola hareket et]]></data>
+  <data name="tr_controlBar_dockedThumbnailsmoveRightTip"><![CDATA[Sağa hareket et]]></data>
+  <data name="tr_controlBar_dockedThumbnailsmoveUpTip"><![CDATA[Yukarı hareket et]]></data>
+  <data name="tr_controlBar_dockedThumbnailsmoveDownTip"><![CDATA[Aşağı hareket et]]></data>
+  <data name="tr_controlBar_dockedThumbnailsopenFsTip"><![CDATA[Tam ekrana geç]]></data>
+  <data name="tr_controlBar_dockedThumbnailscloseFsTip"><![CDATA[Tam ekrandan çık]]></data>
+  <data name="tr_controlBar_dockedThumbnailsautorotateOnTip"><![CDATA[Otomatik döndürmeyi başlat]]></data>
+  <data name="tr_controlBar_dockedThumbnailsautorotateOffTip"><![CDATA[Otomatik döndürmeyi durdur]]></data>
+  <data name="tr_controlBar_dockedThumbnailsautotourOnTip"><![CDATA[Otomatik turu başlat]]></data>
+  <data name="tr_controlBar_dockedThumbnailsautotourOffTip"><![CDATA[Otomatik turu durdur]]></data>
+  <data name="tr_controlBar_dockedThumbnailssoundsOnTip"><![CDATA[Sesleri başlat]]></data>
+  <data name="tr_controlBar_dockedThumbnailssoundsOffTip"><![CDATA[Sesleri durdur]]></data>
+  <data name="tr_controlBar_dockedThumbnailsgyroOnTip"><![CDATA[Jiroskopu aç]]></data>
+  <data name="tr_controlBar_dockedThumbnailsgyroOffTip"><![CDATA[Jiroskopu kapat]]></data>
+  <data name="tr_controlBar_dockedThumbnailsgyroNotTip"><![CDATA[Jiroskop kullanım dışı]]></data>
+  <data name="tr_controlBar_dockedThumbnailsenterVRTip"><![CDATA[VR modu]]></data>
+  <data name="tr_controlBar_dockedThumbnailsenterVRNotTip"><![CDATA[VR modu kullanım dışı]]></data>
+  <data name="tr_controlBar_dockedThumbnailsdisplayControlsTip"><![CDATA[Kumanda butonlarını göster]]></data>
+  <data name="tr_controlBar_dockedThumbnailshideControlsTip"><![CDATA[Kumanda butonlarını gizle]]></data>
+  <data name="tr_logowebsiteurl"><![CDATA[http://www.sanalturturkiye.net]]></data>
+  <data name="tr_logotooltipText"><![CDATA[]]></data>
+
+
+  <data name="tr_vr_setup_hmd0"><![CDATA[HMD DEĞERİNİ SEÇİN]]></data>
+  <data name="tr_vr_setup_advanced"><![CDATA[İLERİ AYARLAR]]></data>
+  <data name="tr_vr_setup_title"><![CDATA[WEB SANAL GERÇEKLİK/VR AYARLARI]]></data>
+  <data name="tr_vr_setup_dvn1"><![CDATA[Cihaz:]]></data>
+  <data name="tr_vr_setup_siz1"><![CDATA[Ekran boyutu:]]></data>
+  <data name="tr_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="tr_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="tr_vr_setup_hmd3"><![CDATA[Özelleştir]]></data>
+  <data name="tr_vr_setup_cal"><![CDATA[Jiroskopu ayarla]]></data>
+  <data name="tr_vr_setup_sav"><![CDATA[KAYDET]]></data>
+  <data name="tr_vr_setup_rst"><![CDATA[SIFIRLA]]></data>
+  <data name="tr_vr_setup_simple"><![CDATA[BASİT]]></data>
+  <data name="tr_vr_setup_cls"><![CDATA[KAPAT]]></data>
+  <data name="tr_vr_setup_m31"><![CDATA[HMD AYARLARI]]></data>
+  <data name="tr_vr_setup_fov1"><![CDATA[GÖRÜŞ AÇISI:]]></data>
+  <data name="tr_vr_setup_dst1"><![CDATA[Distorsiyon:]]></data>
+  <data name="tr_vr_setup_d2tx"><![CDATA[Distorsiyon 2:]]></data>
+  <data name="tr_vr_setup_vig1"><![CDATA[Vinyet:]]></data>
+  <data name="tr_vr_setup_cac1"><![CDATA[Kromatik aberasyon:]]></data>
+  <data name="tr_vr_setup_olp1"><![CDATA[Üstüste binme:]]></data>
+  <data name="tr_vr_setup_m35"><![CDATA[GERİ DÖN]]></data>
+  <data name="tr_vr_setup_cb1"><![CDATA[JİROSKOP]]></data>
+  <data name="tr_vr_setup_cb2"><![CDATA[Jiroskop sapmasını düzeltmek için cihazı düz ve [br]stabil bir yüzeye koyun ve AYARLA&#39;ya basın[br].]]></data>
+  <data name="tr_vr_setup_cb3"><![CDATA[AYARLA]]></data>
+  <data name="tr_vr_setup_cb4"><![CDATA[SIFIRLA]]></data>
+  <data name="tr_vr_setup_cb5"><![CDATA[GERİ DÖN]]></data>
+  <data name="tr_vr_setup_cb6"><![CDATA[Ayarlanıyor...]]></data>
+  <data name="tr_vr_setup_cb7"><![CDATA[Ayarlama başarılı]]></data>
+  <data name="tr_vr_setup_cb8"><![CDATA[Ayarlama başarısız]]></data>
+  <data name="tr_vr_setup_unavailable"><![CDATA[Cihazınızda VR modu [br] kullanılamaz]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
