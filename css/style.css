@@ -604,3 +604,10 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
     height : 72px;
     border-radius: 72px;
 }
+
+.fa-star:before {
+	color: #fffda4;
+}
+
+.fa-star-half:before {
+	content: "\f089"; }
